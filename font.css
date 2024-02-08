@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cormorant'; /*a name to be used later*/
+    src: url('/fonts/Cormorant-VariableFont_wght.ttf'); /*URL to font*/
+}
+
+body {
+    font-family: "Cormorant";
+}
